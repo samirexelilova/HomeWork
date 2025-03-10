@@ -1,0 +1,14 @@
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\bin\Debug\net8.0\HomeWorkTask.exe
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\bin\Debug\net8.0\HomeWorkTask.deps.json
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\bin\Debug\net8.0\HomeWorkTask.runtimeconfig.json
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\bin\Debug\net8.0\HomeWorkTask.dll
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\bin\Debug\net8.0\HomeWorkTask.pdb
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\HomeWorkTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\HomeWorkTask.AssemblyInfoInputs.cache
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\HomeWorkTask.AssemblyInfo.cs
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\HomeWorkTask.csproj.CoreCompileInputs.cache
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\HomeWorkTask.dll
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\refint\HomeWorkTask.dll
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\HomeWorkTask.pdb
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\HomeWorkTask.genruntimeconfig.cache
+C:\Users\Rinat_PC\source\repos\HomeWorkTask\HomeWorkTask\obj\Debug\net8.0\ref\HomeWorkTask.dll
